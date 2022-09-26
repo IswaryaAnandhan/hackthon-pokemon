@@ -13,13 +13,13 @@ h1 {
   -webkit-text-stroke-width: 4.5px;
   -webkit-text-stroke-color:rgb(48, 48, 251) ;
   font-size: 80px;
-  margin-top: 80px; 
+  margin-top: 20px; 
   text-align: center;
   color: rgb(255, 222, 0);
 }
 
 .content-responsive {
-  margin-top: 80px;
+  margin-top: 20px;
   display: flex;
   justify-content: center;
   flex-direction: row;
